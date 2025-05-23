@@ -14,6 +14,7 @@ A simple GitHub dashboard built with **Next.js**, **React**, and **Tailwind CSS*
 - Ready to deploy with Next.js routing
 
 ---
+note limits may apply
 
 ## 🧱 Project Setup
 
